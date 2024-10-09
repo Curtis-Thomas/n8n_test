@@ -1,1 +1,1 @@
-[object Object]61064
+Bitcoin Price: 2416.5
