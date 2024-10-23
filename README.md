@@ -1,1 +1,1 @@
-Bitcoin Price: 2613.45
+Bitcoin Price: 2614.9
